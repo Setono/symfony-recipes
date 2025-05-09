@@ -1,1 +1,1 @@
-# symfony-recipes
+# Symfony Flex recipes for Setono bundles
